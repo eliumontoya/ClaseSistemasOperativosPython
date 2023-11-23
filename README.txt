@@ -2,3 +2,6 @@ Estos son scripts que he realizado para la clase de Sistemas Operativos para pod
 
 Librerias para instalar:
 pip install psutil
+
+
+probando

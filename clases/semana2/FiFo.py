@@ -27,7 +27,7 @@ p2 = Proceso("P2", 1, 4)
 p3 = Proceso("P3", 2, 9)
 
 # Lista de procesos
-procesos = [p1, p2, p3]
+procesos = [p1, p3, p2]
 
 # Ejecutar planificación FCFS
 print("Planificación FCFS:")

@@ -5,6 +5,9 @@ Created on 27 nov. 2023
 '''
 from abc import ABC, abstractmethod
 
+
+# TEMA 9
+ 
 # Interfaz para el dispositivo de almacenamiento
 class StorageDevice(ABC):
     @abstractmethod
